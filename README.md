@@ -6,7 +6,7 @@ Me gusta investigar, y realizar analisis es por eso que estoy estudiando para se
 
 * 👩‍💻Estoy capacitandome a través de cursos y autodidacta, excel , lenguaje SQL y herramientas de visualizacion como Power BI,Tableau📊
 
-* 🥰 Me gusta ver como apartir de los datos puedo realizar distintas interpretaciones y asi poder establecer estrategias dentro de una empresa dependiendo a lo que se dediquen.
+* 🥰 Me gusta ver como a partir de los datos puedo realizar distintas interpretaciones y asi poder establecer estrategias para brindar soluciones.
 
 * Contactame 
 💌: <https://www.linkedin.com/in/belengerez/>

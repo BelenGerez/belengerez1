@@ -11,4 +11,4 @@ Me gusta investigar, y realizar analisis es por eso que estoy estudiando para se
 * Contactame 
 💌: <https://www.linkedin.com/in/belengerez/>
 ### Lenguajes y herramientas 
-Excel | SQL | Power BI | Tableau
+
